@@ -1,0 +1,9 @@
+{
+	"name": "vivekdf45",
+	"location": "westus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d072fd06-0989-4c87-8987-89a32f0e2115",
+		"tenantId": "89550cc2-fb4a-4ad0-a313-d9ceb1ee70a9"
+	}
+}
